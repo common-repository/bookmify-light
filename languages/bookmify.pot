@@ -1,0 +1,3725 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookmify\n"
+"POT-Creation-Date: 2019-08-05 15:08+0500\n"
+"PO-Revision-Date: 2018-10-19 17:58+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e;esc_attr__;esc_attr__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../backend/inc/admin.php:199
+msgid "Bookmify Light"
+msgstr ""
+
+#: ../backend/inc/admin.php:202
+msgid "Upgrade to PRO Version"
+msgstr ""
+
+#: ../backend/inc/admin.php:223
+msgid "Bookmify (PRO) Features List"
+msgstr ""
+
+#: ../backend/inc/admin.php:225
+msgid "PayPal Integration"
+msgstr ""
+
+#: ../backend/inc/admin.php:226
+msgid "Stripe Integration"
+msgstr ""
+
+#: ../backend/inc/admin.php:227
+msgid "SMS Notifications"
+msgstr ""
+
+#: ../backend/inc/admin.php:228
+msgid "Google Calendar 2 way sync"
+msgstr ""
+
+#: ../backend/inc/admin.php:229
+msgid "Unlimited Appointments"
+msgstr ""
+
+#: ../backend/inc/admin.php:230
+msgid "Unlimited Employees"
+msgstr ""
+
+#: ../backend/inc/admin.php:231
+msgid "Unlimited Services"
+msgstr ""
+
+#: ../backend/inc/admin.php:232
+msgid "Unlimited Locations"
+msgstr ""
+
+#: ../backend/inc/admin.php:233
+msgid "Service Extras"
+msgstr ""
+
+#: ../backend/inc/admin.php:234 ../backend/inc/entities/customfields.php:41
+#: ../backend/inc/entities/customfields.php:42
+#: ../backend/inc/entities/customfields.php:603
+msgid "Customfields"
+msgstr ""
+
+#: ../backend/inc/admin.php:235
+msgid "Employee Cabinet"
+msgstr ""
+
+#: ../backend/inc/admin.php:236
+msgid "Customer Cabinet"
+msgstr ""
+
+#: ../backend/inc/admin.php:237
+msgid "SMTP Notification Integration"
+msgstr ""
+
+#: ../backend/inc/admin.php:238
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../backend/inc/admin.php:239
+msgid "Shortcode Small List"
+msgstr ""
+
+#: ../backend/inc/admin.php:240
+msgid "Shortcodes Page"
+msgstr ""
+
+#: ../backend/inc/admin.php:241
+msgid ""
+"Generate Shortcode with Live Preview Front-end Design with many combinations "
+"(by category, by employee, by service, by location and sorting)"
+msgstr ""
+
+#: ../backend/inc/admin.php:242
+msgid ""
+"Feature to skip specialist option from Front-end if the service is served by "
+"only one employee"
+msgstr ""
+
+#: ../backend/inc/admin.php:243
+msgid ""
+"Feature to skip specialist option from Front-end if the shortcode is "
+"generated so that it shows only the services of ONE employee"
+msgstr ""
+
+#: ../backend/inc/admin.php:244
+msgid ""
+"Feature to disable \"Developed by\" section in Settings -> Customization"
+msgstr ""
+
+#: ../backend/inc/admin.php:245
+msgid "Category Filter on Front-end"
+msgstr ""
+
+#: ../backend/inc/admin.php:246
+msgid "Feature to switch category filter in Settings -> Customization"
+msgstr ""
+
+#: ../backend/inc/admin.php:247
+msgid "Deposit Integration"
+msgstr ""
+
+#: ../backend/inc/admin.php:248
+msgid "Taxes Integration"
+msgstr ""
+
+#: ../backend/inc/admin.php:249
+msgid "Dedicated Support"
+msgstr ""
+
+#: ../backend/inc/admin.php:250
+msgid "Free Updates"
+msgstr ""
+
+#: ../backend/inc/admin.php:251
+msgid "Appointments filter by services"
+msgstr ""
+
+#: ../backend/inc/admin.php:252
+msgid "Appointments filter by employees"
+msgstr ""
+
+#: ../backend/inc/admin.php:253
+msgid "Appointments filter by customers"
+msgstr ""
+
+#: ../backend/inc/admin.php:254
+msgid "Appointments filter by statuses"
+msgstr ""
+
+#: ../backend/inc/admin.php:255
+msgid "Appointments reset filter"
+msgstr ""
+
+#: ../backend/inc/admin.php:256
+msgid "Calendar filter by services"
+msgstr ""
+
+#: ../backend/inc/admin.php:257
+msgid "Calendar filter by employees"
+msgstr ""
+
+#: ../backend/inc/admin.php:258
+msgid "Calendar filter by customers"
+msgstr ""
+
+#: ../backend/inc/admin.php:259
+msgid "Calendar filter by statuses"
+msgstr ""
+
+#: ../backend/inc/admin.php:260
+msgid "Calendar reset filter"
+msgstr ""
+
+#: ../backend/inc/admin.php:261
+msgid "Calendar hot keys"
+msgstr ""
+
+#: ../backend/inc/admin.php:262
+msgid "Employees search filter"
+msgstr ""
+
+#: ../backend/inc/admin.php:263
+msgid "Employees filter by services"
+msgstr ""
+
+#: ../backend/inc/admin.php:264
+msgid "Employees ascending/descending filter"
+msgstr ""
+
+#: ../backend/inc/admin.php:265
+msgid "Customers search filter"
+msgstr ""
+
+#: ../backend/inc/admin.php:266
+msgid "Customers ascending/descending filter"
+msgstr ""
+
+#: ../backend/inc/admin.php:267
+msgid "Payments filter by services"
+msgstr ""
+
+#: ../backend/inc/admin.php:268
+msgid "Payments filter by customers"
+msgstr ""
+
+#: ../backend/inc/admin.php:269
+msgid "Payments filter by employees"
+msgstr ""
+
+#: ../backend/inc/admin.php:270
+msgid "Payments filter by statuses"
+msgstr ""
+
+#: ../backend/inc/admin.php:271
+msgid "Manage Hot Keys for Calendar in Settings"
+msgstr ""
+
+#: ../backend/inc/admin.php:272
+msgid "Front-end view customization"
+msgstr ""
+
+#: ../backend/inc/admin.php:273
+msgid "Customer phone as required field"
+msgstr ""
+
+#: ../backend/inc/admin.php:274
+msgid "And more..."
+msgstr ""
+
+#: ../backend/inc/admin.php:317
+msgid "Are you sure? Resetting will lose all custom values in all section"
+msgstr ""
+
+#: ../backend/inc/admin.php:318
+msgid "Defaults Restored"
+msgstr ""
+
+#: ../backend/inc/admin.php:319
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../backend/inc/admin.php:320
+msgid "Save Process Failed!"
+msgstr ""
+
+#: ../backend/inc/admin.php:329 ../backend/inc/admin.php:352
+#: ../backend/inc/admin.php:369 ../backend/inc/admin.php:488
+#: ../backend/inc/helpers/helper-admin.php:255 ../frontend/frontend.php:84
+msgid "Are you sure?"
+msgstr ""
+
+#: ../backend/inc/admin.php:330 ../frontend/frontend.php:85
+msgid "A category has been updated!"
+msgstr ""
+
+#: ../backend/inc/admin.php:331 ../frontend/frontend.php:86
+msgid "Please enter at least one character!"
+msgstr ""
+
+#: ../backend/inc/admin.php:332 ../frontend/frontend.php:87
+msgid "A service has been added!"
+msgstr ""
+
+#: ../backend/inc/admin.php:333 ../frontend/frontend.php:88
+msgid "A category has been added!"
+msgstr ""
+
+#: ../backend/inc/admin.php:334 ../frontend/frontend.php:89
+msgid "Categories' order have been changed!"
+msgstr ""
+
+#: ../backend/inc/admin.php:335 ../frontend/frontend.php:90
+msgid "A category has been deleted!"
+msgstr ""
+
+#: ../backend/inc/admin.php:336 ../frontend/frontend.php:91
+msgid "A service has been updated!"
+msgstr ""
+
+#: ../backend/inc/admin.php:337 ../frontend/frontend.php:92
+msgid "Extra Services' order have been changed!"
+msgstr ""
+
+#: ../backend/inc/admin.php:338 ../frontend/frontend.php:93
+msgid "A service has been deleted!"
+msgstr ""
+
+#: ../backend/inc/admin.php:339 ../backend/inc/admin.php:374
+#: ../backend/inc/admin.php:388 ../backend/inc/admin.php:423
+#: ../backend/inc/admin.php:440 ../backend/inc/admin.php:478
+#: ../backend/inc/admin.php:521 ../backend/inc/admin.php:552
+msgid "Please fill out this field!"
+msgstr ""
+
+#: ../backend/inc/admin.php:340
+msgid ""
+"Please make sure that this category is not assigned to any services. Number "
+"of services related to this category:"
+msgstr ""
+
+#: ../backend/inc/admin.php:341
+msgid ""
+"Please make sure that there are no appointments with this service. Number of "
+"expected appointments with this service:"
+msgstr ""
+
+#: ../backend/inc/admin.php:343
+msgid ""
+"You can only have 5 services in Light Version. Please, upgrade to Bookmify "
+"(PRO) to get all possibilites of Bookmify and technical support 24/7  <a "
+"target=\"_blank\" href=\"https://codecanyon.net/item/bookmify-appointment-"
+"booking-wordpress-plugin/23837899\">here</a>"
+msgstr ""
+
+#: ../backend/inc/admin.php:353
+msgid "A holiday has been added!"
+msgstr ""
+
+#: ../backend/inc/admin.php:354
+msgid "A holiday has been deleted!"
+msgstr ""
+
+#: ../backend/inc/admin.php:355 ../backend/inc/admin.php:372
+msgid "Please choose at least one day!"
+msgstr ""
+
+#: ../backend/inc/admin.php:356 ../backend/inc/admin.php:373
+msgid "Please enter title of offday!"
+msgstr ""
+
+#: ../backend/inc/admin.php:357 ../backend/inc/admin.php:358
+msgid "A holiday has been updated!"
+msgstr ""
+
+#: ../backend/inc/admin.php:359
+msgid "Working hours and breaks have been saved!"
+msgstr ""
+
+#: ../backend/inc/admin.php:360
+msgid "Settings successfully saved!"
+msgstr ""
+
+#: ../backend/inc/admin.php:370 ../backend/inc/admin.php:390
+#: ../backend/inc/admin.php:419 ../backend/inc/admin.php:433
+#: ../backend/inc/admin.php:449 ../backend/inc/admin.php:474
+#: ../backend/inc/admin.php:489 ../backend/inc/admin.php:554
+msgid "Successfully deleted"
+msgstr ""
+
+#: ../backend/inc/admin.php:371 ../backend/inc/admin.php:392
+#: ../backend/inc/admin.php:421 ../backend/inc/admin.php:435
+#: ../backend/inc/admin.php:451 ../backend/inc/admin.php:476
+#: ../backend/inc/admin.php:491 ../backend/inc/admin.php:556
+msgid "Successfully added"
+msgstr ""
+
+#: ../backend/inc/admin.php:375 ../backend/inc/admin.php:522
+msgid "Invalid Email."
+msgstr ""
+
+#: ../backend/inc/admin.php:376
+msgid "An Employee has been updated!"
+msgstr ""
+
+#: ../backend/inc/admin.php:377
+msgid ""
+"Please make sure that this employee does not have scheduled appointments. "
+"The number of scheduled appointments with this employee:"
+msgstr ""
+
+#: ../backend/inc/admin.php:378 ../backend/inc/admin.php:512
+msgid "Unable to add the wordpress user, because of it is demo version."
+msgstr ""
+
+#: ../backend/inc/admin.php:379
+msgid ""
+"You can only have 3 employees in Light Version. Please, upgrade to Bookmify "
+"(PRO) to get all possibilites of Bookmify and technical support 24/7  <a "
+"target=\"_blank\" href=\"https://codecanyon.net/item/bookmify-appointment-"
+"booking-wordpress-plugin/23837899\">here</a>"
+msgstr ""
+
+#: ../backend/inc/admin.php:389 ../backend/inc/admin.php:553
+#: ../backend/inc/helpers/helper-appointments.php:1574
+msgid "Choose Service and Employee!"
+msgstr ""
+
+#: ../backend/inc/admin.php:391 ../backend/inc/admin.php:420
+#: ../backend/inc/admin.php:434 ../backend/inc/admin.php:450
+#: ../backend/inc/admin.php:475 ../backend/inc/admin.php:490
+#: ../backend/inc/admin.php:555
+msgid "Successfully saved"
+msgstr ""
+
+#: ../backend/inc/admin.php:393 ../backend/inc/admin.php:452
+#: ../backend/inc/admin.php:557
+msgid "Successfully updated"
+msgstr ""
+
+#: ../backend/inc/admin.php:394 ../backend/inc/admin.php:422
+#: ../backend/inc/admin.php:436 ../backend/inc/admin.php:453
+#: ../backend/inc/admin.php:477
+msgid "Successfully reordered"
+msgstr ""
+
+#: ../backend/inc/admin.php:395 ../backend/inc/admin.php:560
+msgid "You are trying to delete an appointment that has already taken place."
+msgstr ""
+
+#: ../backend/inc/admin.php:396 ../backend/inc/admin.php:561
+msgid "You are trying to change an appointment that has already taken place."
+msgstr ""
+
+#: ../backend/inc/admin.php:408 ../backend/inc/admin.php:465
+#: ../backend/inc/admin.php:574
+msgid "No Records"
+msgstr ""
+
+#: ../backend/inc/admin.php:409 ../backend/inc/admin.php:575
+#: ../backend/inc/helpers/helper-appointments.php:1567
+msgid "Minimum Capacity:"
+msgstr ""
+
+#: ../backend/inc/admin.php:410 ../backend/inc/admin.php:576
+#: ../backend/inc/helpers/helper-appointments.php:1569
+msgid "Maximum Capacity:"
+msgstr ""
+
+#: ../backend/inc/admin.php:424
+msgid ""
+"You can only have 1 location in Light Version. Please, upgrade to Bookmify "
+"(PRO) to get all possibilites of Bookmify and technical support 24/7  <a "
+"target=\"_blank\" href=\"https://codecanyon.net/item/bookmify-appointment-"
+"booking-wordpress-plugin/23837899\">here</a>"
+msgstr ""
+
+#: ../backend/inc/admin.php:437 ../backend/inc/admin.php:509
+#: ../frontend/frontend.php:95
+msgid "Invalid Email"
+msgstr ""
+
+#: ../backend/inc/admin.php:438
+msgid "Test email successfully has been sent"
+msgstr ""
+
+#: ../backend/inc/admin.php:439
+msgid "Mail warning"
+msgstr ""
+
+#: ../backend/inc/admin.php:493 ../backend/inc/admin.php:531
+msgid "January"
+msgstr ""
+
+#: ../backend/inc/admin.php:494 ../backend/inc/admin.php:532
+msgid "February"
+msgstr ""
+
+#: ../backend/inc/admin.php:495 ../backend/inc/admin.php:533
+msgid "March"
+msgstr ""
+
+#: ../backend/inc/admin.php:496 ../backend/inc/admin.php:534
+msgid "April"
+msgstr ""
+
+#: ../backend/inc/admin.php:497 ../backend/inc/admin.php:535
+msgid "May"
+msgstr ""
+
+#: ../backend/inc/admin.php:498 ../backend/inc/admin.php:536
+msgid "June"
+msgstr ""
+
+#: ../backend/inc/admin.php:499 ../backend/inc/admin.php:537
+msgid "July"
+msgstr ""
+
+#: ../backend/inc/admin.php:500 ../backend/inc/admin.php:538
+msgid "August"
+msgstr ""
+
+#: ../backend/inc/admin.php:501 ../backend/inc/admin.php:539
+msgid "September"
+msgstr ""
+
+#: ../backend/inc/admin.php:502 ../backend/inc/admin.php:540
+msgid "October"
+msgstr ""
+
+#: ../backend/inc/admin.php:503 ../backend/inc/admin.php:541
+msgid "November"
+msgstr ""
+
+#: ../backend/inc/admin.php:504 ../backend/inc/admin.php:542
+msgid "December"
+msgstr ""
+
+#: ../backend/inc/admin.php:506
+msgid ""
+"Please make sure that this customer does not have scheduled appointments. "
+"The number of scheduled appointments with this customer:"
+msgstr ""
+
+#: ../backend/inc/admin.php:507
+msgid "Please fill out this field"
+msgstr ""
+
+#: ../backend/inc/admin.php:508 ../frontend/frontend.php:96
+msgid "Invalid Phone"
+msgstr ""
+
+#: ../backend/inc/admin.php:510
+msgid "Invalid Date"
+msgstr ""
+
+#: ../backend/inc/admin.php:511
+msgid "Email already exist!"
+msgstr ""
+
+#: ../backend/inc/admin.php:523
+msgid "Invalid Date."
+msgstr ""
+
+#: ../backend/inc/admin.php:524
+msgid "Details have been updated!"
+msgstr ""
+
+#: ../backend/inc/admin.php:525
+msgid "Your google calendar has been disconnected."
+msgstr ""
+
+#: ../backend/inc/admin.php:526
+msgid "Google Calendar has been connected."
+msgstr ""
+
+#: ../backend/inc/admin.php:527
+msgid "This email already used by another customer."
+msgstr ""
+
+#: ../backend/inc/admin.php:528
+msgid "Email exist."
+msgstr ""
+
+#: ../backend/inc/admin.php:529 ../backend/inc/admin.php:559
+msgid "Bunny error."
+msgstr ""
+
+#: ../backend/inc/admin.php:558
+msgid "Successfully canceled"
+msgstr ""
+
+#: ../backend/inc/admin.php:562
+msgid ""
+"You are trying to cancel an appointment that has already taken place or has "
+"same status."
+msgstr ""
+
+#: ../backend/inc/calendar/calendar.php:25
+#: ../backend/inc/calendar/calendar.php:26
+#: ../backend/inc/calendar/calendar.php:370
+msgid "Calendar"
+msgstr ""
+
+#: ../backend/inc/calendar/calendar.php:264
+#: ../backend/inc/core/notificationmanagement.php:240
+#: ../backend/inc/entities/customers.php:89
+#: ../backend/inc/entities/customers.php:90
+#: ../backend/inc/entities/customers.php:814
+#: ../backend/inc/helpers/helper-appointments.php:1540
+#: ../backend/inc/helpers/helper-cabinet.php:387
+#: ../backend/inc/settings/settings-page.php:114
+#: ../backend/inc/settings/settings-page.php:698
+msgid "Customers"
+msgstr ""
+
+#: ../backend/inc/calendar/calendar.php:328
+#: ../backend/inc/entities/appointments.php:156
+#: ../backend/inc/helpers/helper-appointments.php:1605
+msgid "Employee"
+msgstr ""
+
+#: ../backend/inc/core/notificationmanagement.php:241
+msgid "Emails"
+msgstr ""
+
+#: ../backend/inc/core/notificationmanagement.php:242
+msgid "Phones"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:76
+#: ../backend/inc/entities/appointments.php:77
+#: ../backend/inc/entities/appointments.php:2406
+msgid "Appointments"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:97
+msgid "Add New Appointment"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:121
+#: ../backend/inc/helpers/helper-appointments.php:350
+#: ../backend/inc/helpers/helper-appointments.php:952
+msgid "Nothing to choose"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:122
+msgid "Select service and employee"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:123
+msgid "Select customer, employee and service!"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:133
+#: ../backend/inc/helpers/helper-appointments.php:901
+msgid ""
+"This is the number of people who will come with this customer including the "
+"customer. This number varies depending on the selected service and employee."
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:140
+#: ../backend/inc/helpers/helper-appointments.php:309
+#: ../backend/inc/helpers/helper-appointments.php:1307
+msgid "This service doesn't have extra services"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:153
+#: ../backend/inc/entities/employees.php:1247
+#: ../backend/inc/entities/payments.php:89
+#: ../backend/inc/entities/payments.php:103
+#: ../backend/inc/helpers/helper-appointments.php:1628
+#: ../backend/inc/helpers/helper-cabinet.php:295
+#: ../backend/inc/helpers/helper-employees.php:405
+#: ../backend/inc/helpers/helper-employees.php:444
+#: ../backend/inc/helpers/helper-employees.php:1072
+#: ../backend/inc/settings/settings-dayoff-query.php:59
+#: ../backend/inc/settings/settings-dayoff-query.php:151
+#: ../backend/inc/settings/settings-page.php:619
+#: ../backend/inc/settings/settings-page.php:656
+#: ../backend/inc/settings/settings.php:143
+msgid "Date"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:154
+#: ../backend/inc/entities/payments.php:104
+#: ../backend/inc/entities/payments.php:625
+#: ../backend/inc/helpers/helper-appointments.php:1939
+#: ../backend/inc/helpers/helper-cabinet.php:759
+msgid "Customer"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:155
+#: ../backend/inc/entities/payments.php:105
+#: ../backend/inc/helpers/helper-appointments.php:1594
+msgid "Service"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:157
+#: ../backend/inc/entities/services.php:118
+#: ../backend/inc/entities/services.php:856
+#: ../backend/inc/helpers/helper-employees.php:877
+#: ../backend/inc/helpers/helper-employees.php:997
+#: ../backend/inc/helpers/helper-services.php:78
+#: ../backend/inc/helpers/helper-services.php:189
+#: ../backend/inc/helpers/helper-services.php:607
+msgid "Price"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:158
+#: ../backend/inc/entities/services.php:119
+#: ../backend/inc/entities/services.php:877
+#: ../backend/inc/entities/services.php:878
+#: ../backend/inc/helpers/helper-services.php:84
+#: ../backend/inc/helpers/helper-services.php:85
+#: ../backend/inc/helpers/helper-services.php:210
+#: ../backend/inc/helpers/helper-services.php:211
+#: ../backend/inc/helpers/helper-services.php:613
+#: ../backend/inc/helpers/helper-services.php:614 ../frontend/frontend.php:100
+msgid "Duration"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:159
+#: ../backend/inc/entities/payments.php:108
+#: ../backend/inc/helpers/helper-cabinet.php:472
+msgid "Status"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:254
+#: ../backend/inc/entities/appointments.php:341
+#: ../backend/inc/entities/appointments.php:483
+#: ../backend/inc/entities/appointments.php:569
+#: ../backend/inc/entities/appointments.php:2002
+#: ../backend/inc/entities/appointments.php:2088
+#: ../backend/inc/entities/appointments.php:2265
+#: ../backend/inc/entities/appointments.php:2351
+#: ../backend/inc/helpers/helper-appointments.php:1767
+#: ../backend/inc/helpers/helper-appointments.php:1960
+#: ../backend/inc/helpers/helper-cabinet.php:463
+#: ../backend/inc/helpers/helper-cabinet.php:575
+#: ../backend/inc/helpers/helper-cabinet.php:780
+#: ../backend/inc/helpers/helper.php:880
+msgid "Approved"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:255
+#: ../backend/inc/entities/appointments.php:345
+#: ../backend/inc/entities/appointments.php:484
+#: ../backend/inc/entities/appointments.php:573
+#: ../backend/inc/entities/appointments.php:2003
+#: ../backend/inc/entities/appointments.php:2092
+#: ../backend/inc/entities/appointments.php:2266
+#: ../backend/inc/entities/appointments.php:2355
+#: ../backend/inc/entities/payments.php:180
+#: ../backend/inc/entities/payments.php:303
+#: ../backend/inc/entities/payments.php:427
+#: ../backend/inc/entities/payments.php:600
+#: ../backend/inc/helpers/helper-appointments.php:1768
+#: ../backend/inc/helpers/helper-appointments.php:1961
+#: ../backend/inc/helpers/helper-cabinet.php:464
+#: ../backend/inc/helpers/helper-cabinet.php:576
+#: ../backend/inc/helpers/helper-cabinet.php:781
+#: ../backend/inc/helpers/helper.php:881
+msgid "Pending"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:256
+#: ../backend/inc/entities/appointments.php:485
+#: ../backend/inc/entities/appointments.php:2004
+#: ../backend/inc/entities/appointments.php:2267
+#: ../backend/inc/helpers/helper-appointments.php:1769
+#: ../backend/inc/helpers/helper-appointments.php:1962
+#: ../backend/inc/helpers/helper-cabinet.php:465
+#: ../backend/inc/helpers/helper-cabinet.php:577
+#: ../backend/inc/helpers/helper-cabinet.php:782
+msgid "Canceled"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:257
+#: ../backend/inc/entities/appointments.php:486
+#: ../backend/inc/entities/appointments.php:2005
+#: ../backend/inc/entities/appointments.php:2268
+#: ../backend/inc/helpers/helper-appointments.php:1770
+#: ../backend/inc/helpers/helper-appointments.php:1963
+#: ../backend/inc/helpers/helper-cabinet.php:466
+#: ../backend/inc/helpers/helper-cabinet.php:578
+#: ../backend/inc/helpers/helper-cabinet.php:783
+msgid "Rejected"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:840
+msgid "You reached the limit"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:868
+msgid "Busy Day"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:1046
+msgid "Edit Appointment"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:1061
+#: ../backend/inc/entities/employees.php:1135
+#: ../backend/inc/entities/services.php:812
+#: ../backend/inc/helpers/helper-appointments.php:46
+#: ../backend/inc/helpers/helper-employees.php:43
+#: ../backend/inc/helpers/helper-services.php:145
+msgid "Details"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:1062
+#: ../backend/inc/entities/services.php:818
+#: ../backend/inc/helpers/helper-appointments.php:47
+#: ../backend/inc/helpers/helper-appointments.php:1869
+#: ../backend/inc/helpers/helper-cabinet.php:689
+#: ../backend/inc/helpers/helper-services.php:151
+#: ../backend/inc/helpers/helper.php:1122 ../frontend/frontend.php:99
+msgid "Extras"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:1063
+#: ../backend/inc/entities/payments.php:665
+#: ../backend/inc/helpers/helper-appointments.php:48
+#: ../backend/inc/helpers/helper-appointments.php:1904
+#: ../backend/inc/helpers/helper-cabinet.php:724
+msgid "Payment"
+msgstr ""
+
+#: ../backend/inc/entities/appointments.php:1157
+#: ../backend/inc/helpers/helper-appointments.php:1802
+#: ../backend/inc/helpers/helper-cabinet.php:610
+msgid "Appointment Details"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:108
+msgid "Add New Customer"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:129
+#: ../backend/inc/entities/employees.php:112
+#: ../backend/inc/entities/locations.php:88
+#: ../backend/inc/entities/locations.php:600
+#: ../backend/inc/entities/services.php:852
+#: ../backend/inc/helpers/helper-locations.php:53
+#: ../backend/inc/helpers/helper-services.php:74
+#: ../backend/inc/helpers/helper-services.php:185
+#: ../backend/inc/helpers/helper-services.php:603
+#: ../backend/inc/helpers/helper-settings.php:386
+msgid "Name"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:130
+#: ../backend/inc/entities/employees.php:113
+#: ../backend/inc/helpers/helper-cabinet.php:104
+#: ../backend/inc/helpers/helper-employees.php:563
+#: ../backend/inc/helpers/helper-employees.php:694
+#: ../frontend/shortcodes/shortcode-alpha.php:122
+msgid "Email"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:131
+#: ../backend/inc/entities/employees.php:114
+#: ../backend/inc/helpers/helper-cabinet.php:110
+#: ../backend/inc/helpers/helper-employees.php:580
+#: ../backend/inc/helpers/helper-employees.php:711
+#: ../backend/inc/helpers/helper-settings.php:404
+#: ../frontend/shortcodes/shortcode-alpha.php:128
+msgid "Phone"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:490
+msgid "Edit Customer"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:501
+#: ../backend/inc/helpers/helper-cabinet.php:89
+#: ../backend/inc/helpers/helper-cabinet.php:172
+#: ../backend/inc/helpers/helper-customers.php:43
+#: ../backend/inc/helpers/helper-employees.php:546
+#: ../backend/inc/helpers/helper-employees.php:679
+#: ../frontend/shortcodes/shortcode-alpha.php:110
+msgid "First Name"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:508
+#: ../backend/inc/helpers/helper-cabinet.php:95
+#: ../backend/inc/helpers/helper-cabinet.php:179
+#: ../backend/inc/helpers/helper-customers.php:50
+#: ../backend/inc/helpers/helper-employees.php:552
+#: ../backend/inc/helpers/helper-employees.php:685
+#: ../frontend/shortcodes/shortcode-alpha.php:116
+msgid "Last Name"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:515
+#: ../backend/inc/helpers/helper-cabinet.php:186
+#: ../backend/inc/helpers/helper-customers.php:57
+msgid "Email Address"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:522
+#: ../backend/inc/helpers/helper-cabinet.php:193
+#: ../backend/inc/helpers/helper-customers.php:64
+msgid "Phone Number"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:530
+#: ../backend/inc/helpers/helper-cabinet.php:201
+#: ../backend/inc/helpers/helper-customers.php:72
+msgid "Date of Birth"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:538
+#: ../backend/inc/helpers/helper-customers.php:80
+#: ../backend/inc/helpers/helper-employees.php:587
+#: ../backend/inc/helpers/helper-employees.php:718
+msgid "WordPress User"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:540
+#: ../backend/inc/helpers/helper-customers.php:82
+#: ../backend/inc/helpers/helper-employees.php:589
+#: ../backend/inc/helpers/helper-employees.php:720
+msgid "Select from WP users"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:548
+#: ../backend/inc/helpers/helper-cabinet.php:208
+#: ../backend/inc/helpers/helper-customers.php:90
+msgid "Country"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:555
+#: ../backend/inc/helpers/helper-cabinet.php:215
+#: ../backend/inc/helpers/helper-customers.php:97
+msgid "State"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:562
+#: ../backend/inc/helpers/helper-cabinet.php:222
+#: ../backend/inc/helpers/helper-customers.php:104
+msgid "City"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:569
+#: ../backend/inc/helpers/helper-cabinet.php:229
+#: ../backend/inc/helpers/helper-customers.php:111
+msgid "Post Code"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:576
+#: ../backend/inc/helpers/helper-cabinet.php:236
+#: ../backend/inc/helpers/helper-customers.php:118
+#: ../backend/inc/helpers/helper-settings.php:392
+msgid "Address"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:583
+#: ../backend/inc/helpers/helper-appointments.php:1667
+#: ../backend/inc/helpers/helper-appointments.php:1942
+#: ../backend/inc/helpers/helper-cabinet.php:118
+#: ../backend/inc/helpers/helper-cabinet.php:243
+#: ../backend/inc/helpers/helper-cabinet.php:762
+#: ../backend/inc/helpers/helper-customers.php:125
+#: ../backend/inc/helpers/helper-employees.php:595
+#: ../backend/inc/helpers/helper-employees.php:729
+msgid "Info"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:584
+#: ../backend/inc/entities/services.php:947
+#: ../backend/inc/helpers/helper-cabinet.php:119
+#: ../backend/inc/helpers/helper-cabinet.php:244
+#: ../backend/inc/helpers/helper-customers.php:126
+#: ../backend/inc/helpers/helper-employees.php:596
+#: ../backend/inc/helpers/helper-employees.php:730
+#: ../backend/inc/helpers/helper-services.php:108
+#: ../backend/inc/helpers/helper-services.php:280
+#: ../backend/inc/helpers/helper-services.php:637
+msgid "Some info for internal usage"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:595
+#: ../backend/inc/entities/customfields.php:331
+#: ../backend/inc/entities/employees.php:1158
+#: ../backend/inc/entities/locations.php:653
+#: ../backend/inc/entities/services.php:978
+#: ../backend/inc/helpers/helper-cabinet.php:124
+#: ../backend/inc/helpers/helper-cabinet.php:250
+#: ../backend/inc/helpers/helper-customers.php:139
+#: ../backend/inc/helpers/helper-customfields.php:140
+#: ../backend/inc/helpers/helper-employees.php:65
+#: ../backend/inc/helpers/helper-locations.php:97
+#: ../backend/inc/helpers/helper-notifications.php:147
+#: ../backend/inc/helpers/helper-notifications.php:303
+#: ../backend/inc/helpers/helper-services.php:312
+#: ../backend/inc/helpers/helper-settings.php:325
+#: ../backend/inc/helpers/helper-settings.php:418
+#: ../backend/inc/helpers/helper-settings.php:536
+#: ../backend/inc/helpers/helper-settings.php:597
+#: ../backend/inc/helpers/helper.php:26 ../backend/inc/helpers/helper.php:478
+#: ../backend/inc/settings/settings-dayoff-query.php:76
+#: ../backend/inc/settings/settings-dayoff-query.php:168
+#: ../backend/inc/settings/settings-page.php:257
+#: ../backend/inc/settings/settings-page.php:602
+#: ../backend/inc/settings/settings-page.php:637
+#: ../backend/inc/settings/settings-page.php:726
+#: ../backend/inc/settings/settings-page.php:1040
+#: ../backend/inc/settings/settings-page.php:1100
+#: ../backend/inc/settings/settings.php:160
+msgid "Save"
+msgstr ""
+
+#: ../backend/inc/entities/customers.php:602
+#: ../backend/inc/entities/customfields.php:338
+#: ../backend/inc/entities/employees.php:1165
+#: ../backend/inc/entities/locations.php:660
+#: ../backend/inc/entities/services.php:985
+#: ../backend/inc/helpers/helper-admin.php:232
+#: ../backend/inc/helpers/helper-admin.php:259
+#: ../backend/inc/helpers/helper-customers.php:146
+#: ../backend/inc/helpers/helper-customfields.php:147
+#: ../backend/inc/helpers/helper-employees.php:72
+#: ../backend/inc/helpers/helper-locations.php:104
+#: ../backend/inc/helpers/helper-services.php:319
+#: ../backend/inc/helpers/helper.php:485
+msgid "Cancel"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:66
+#: ../backend/inc/entities/customfields.php:117
+#: ../backend/inc/entities/customfields.php:460
+msgid "Checkbox"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:67
+#: ../backend/inc/entities/customfields.php:119
+#: ../backend/inc/entities/customfields.php:462
+msgid "Radio Buttons"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:68
+#: ../backend/inc/entities/customfields.php:118
+#: ../backend/inc/entities/customfields.php:461
+msgid "Select"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:69
+msgid "Text Field"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:70
+#: ../backend/inc/entities/customfields.php:121
+#: ../backend/inc/entities/customfields.php:464
+msgid "Textarea"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:72
+#: ../backend/inc/entities/customfields.php:122
+#: ../backend/inc/entities/customfields.php:465
+msgid "Text Content"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:120
+#: ../backend/inc/entities/customfields.php:463
+msgid "Text"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:207
+#: ../backend/inc/helpers/helper-customfields.php:39
+msgid "Label & Options"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:210
+msgid "Edit Checkbox"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:211
+msgid "Edit Select"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:212
+msgid "Edit Radio Buttons"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:213
+msgid "Edit Text"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:213
+#: ../backend/inc/entities/customfields.php:214
+#: ../backend/inc/entities/customfields.php:215
+#: ../backend/inc/helpers/helper-customfields.php:40
+msgid "Label"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:214
+msgid "Edit Textarea"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:215
+msgid "Edit Text Content"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:272
+#: ../backend/inc/helpers/helper-customfields.php:101
+msgid "Required field"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:292
+#: ../backend/inc/helpers/helper-customfields.php:114
+msgid "Add Option"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:305
+#: ../backend/inc/entities/customfields.php:313
+#: ../backend/inc/helpers/helper-customfields.php:122
+msgid "Attach Services"
+msgstr ""
+
+#: ../backend/inc/entities/customfields.php:311
+#: ../backend/inc/helpers/helper-customfields.php:120
+msgid "Attached Services"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:53
+#: ../backend/inc/entities/employees.php:54
+#: ../backend/inc/entities/employees.php:1362
+#: ../backend/inc/entities/locations.php:621
+#: ../backend/inc/entities/services.php:868
+#: ../backend/inc/helpers/helper-cabinet.php:432
+#: ../backend/inc/helpers/helper-locations.php:65
+#: ../backend/inc/helpers/helper-services.php:201
+msgid "Employees"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:89
+msgid "Add New Employee"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:1122
+msgid "Edit Employee"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:1136
+#: ../backend/inc/entities/services.php:47
+#: ../backend/inc/entities/services.php:48
+#: ../backend/inc/entities/services.php:117
+#: ../backend/inc/entities/services.php:1029
+#: ../backend/inc/helpers/helper-cabinet.php:345
+#: ../backend/inc/helpers/helper-employees.php:44
+#: ../backend/inc/settings/settings-page.php:120
+#: ../backend/inc/settings/settings-page.php:1074
+msgid "Services"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:1137
+#: ../backend/inc/helpers/helper-employees.php:45
+#: ../backend/inc/settings/settings-page.php:282
+msgid "Working Hours"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:1138
+#: ../backend/inc/helpers/helper-employees.php:46
+#: ../backend/inc/settings/settings-page.php:285
+msgid "Days Off"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:1248
+#: ../backend/inc/helpers/helper-appointments.php:1630
+#: ../backend/inc/helpers/helper-employees.php:1073
+#: ../backend/inc/settings/settings-dayoff-query.php:60
+#: ../backend/inc/settings/settings-dayoff-query.php:152
+#: ../backend/inc/settings/settings.php:144
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:1252
+#: ../backend/inc/helpers/helper-employees.php:411
+#: ../backend/inc/helpers/helper-employees.php:447
+#: ../backend/inc/helpers/helper-employees.php:1077
+#: ../backend/inc/settings/settings-dayoff-query.php:64
+#: ../backend/inc/settings/settings-dayoff-query.php:156
+#: ../backend/inc/settings/settings-page.php:624
+#: ../backend/inc/settings/settings-page.php:659
+#: ../backend/inc/settings/settings.php:148
+msgid "Title"
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:1253
+#: ../backend/inc/helpers/helper-employees.php:413
+#: ../backend/inc/helpers/helper-employees.php:1078
+#: ../backend/inc/settings/settings-dayoff-query.php:65
+#: ../backend/inc/settings/settings-dayoff-query.php:157
+#: ../backend/inc/settings/settings-page.php:625
+#: ../backend/inc/settings/settings.php:149
+msgid "Enter Off Day Title..."
+msgstr ""
+
+#: ../backend/inc/entities/employees.php:1261
+#: ../backend/inc/helpers/helper-employees.php:421
+#: ../backend/inc/helpers/helper-employees.php:474
+#: ../backend/inc/helpers/helper-employees.php:1086
+#: ../backend/inc/settings/settings-dayoff-query.php:73
+#: ../backend/inc/settings/settings-dayoff-query.php:165
+#: ../backend/inc/settings/settings-page.php:633
+#: ../backend/inc/settings/settings-page.php:673
+#: ../backend/inc/settings/settings.php:157
+msgid "Repeat Every Year"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:48
+#: ../backend/inc/entities/locations.php:49
+#: ../backend/inc/entities/locations.php:89
+#: ../backend/inc/entities/locations.php:702
+msgid "Locations"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:67
+msgid "Add New Location"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:574
+msgid "Edit Location"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:601
+#: ../backend/inc/helpers/helper-locations.php:54
+#: ../backend/inc/helpers/helper.php:1125
+msgid "Location Name"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:604
+#: ../backend/inc/helpers/helper-appointments.php:1613
+#: ../backend/inc/helpers/helper-employees.php:569
+#: ../backend/inc/helpers/helper-employees.php:700
+#: ../backend/inc/helpers/helper-locations.php:57
+msgid "Location"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:605
+#: ../backend/inc/helpers/helper-locations.php:58
+msgid "Location Address"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:615
+#: ../backend/inc/entities/locations.php:623
+#: ../backend/inc/entities/services.php:788
+#: ../backend/inc/entities/services.php:869
+#: ../backend/inc/helpers/helper-appointments.php:1607
+#: ../backend/inc/helpers/helper-locations.php:67
+#: ../backend/inc/helpers/helper-services.php:202
+msgid "Select from Employees"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:636
+#: ../backend/inc/entities/services.php:946
+#: ../backend/inc/helpers/helper-locations.php:80
+#: ../backend/inc/helpers/helper-services.php:107
+#: ../backend/inc/helpers/helper-services.php:279
+#: ../backend/inc/helpers/helper-services.php:636
+msgid "Description"
+msgstr ""
+
+#: ../backend/inc/entities/locations.php:637
+#: ../backend/inc/helpers/helper-locations.php:81
+msgid "Some info"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:40
+#: ../backend/inc/entities/notifications.php:41
+#: ../backend/inc/entities/notifications.php:485
+#: ../backend/inc/helpers/helper-admin.php:21
+#: ../backend/inc/helpers/helper-settings.php:446
+msgid "Notifications"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:71
+msgid ""
+"To send scheduled notifications please add the following command line in "
+"your cron:"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:83
+msgid "To Customers"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:84
+msgid "To Employee"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:102
+msgid "Shortcode List"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:217
+#: ../backend/inc/entities/notifications.php:287
+msgid "Appointment Approved"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:218
+msgid ""
+"Dear {{customer_full_name}}.\n"
+"\n"
+"This is a confirmation that you have booked {{service_name}}.\n"
+"\n"
+"We are waiting you at {{company_address}} on {{appointment_date}} at "
+"{{appointment_start_time}}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{{company_name}}\n"
+"{{company_phone}}\n"
+"{{company_website}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:225
+#: ../backend/inc/entities/notifications.php:295
+msgid "Appointment Canceled"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:226
+msgid ""
+"Dear {{customer_full_name}}.\n"
+"\n"
+"You have canceled your booking of {{service_name}} on {{appointment_date}} "
+"at {{appointment_start_time}}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{{company_name}}\n"
+"{{company_phone}}\n"
+"{{company_website}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:233
+#: ../backend/inc/entities/notifications.php:303
+msgid "Appointment Pending"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:234
+msgid ""
+"Dear {{customer_full_name}}.\n"
+"\n"
+" The {{service_name}} appointment with {{employee_full_name}} at "
+"{{company_address}}, scheduled for {{appointment_date}} at "
+"{{appointment_start_time}} is waiting for a confirmation.\n"
+"\n"
+" Thank you for choosing our company.\n"
+"\n"
+" {{company_name}}\n"
+"{{company_phone}}\n"
+"{{company_website}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:241
+#: ../backend/inc/entities/notifications.php:311
+msgid "Appointment Rejected"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:242
+msgid ""
+"Dear {{customer_full_name}}.\n"
+"\n"
+"Your booking of {{service_name}} on {{appointment_date}} at "
+"{{appointment_start_time}} has been rejected.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{{company_name}}\n"
+"{{company_phone}}\n"
+"{{company_website}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:249
+#: ../backend/inc/entities/notifications.php:319
+msgid "Appointment Rescheduled"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:250
+msgid ""
+"Dear {{customer_full_name}}.\n"
+"\n"
+"Were changed the details of your booking on {{service_name}} at "
+"{{location_name}} with {{employee_full_name}}. The booking has been "
+"rescheduled to {{appointment_date}} at {{appointment_start_time}}.\n"
+"\n"
+"Thank you for choosing our company.\n"
+"\n"
+"{{company_name}}\n"
+"{{company_phone}}\n"
+"{{company_website}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:257
+#: ../backend/inc/entities/notifications.php:327
+msgid "Reminder Day Before Appointment"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:258
+#: ../backend/inc/entities/notifications.php:268
+#: ../backend/inc/entities/notifications.php:338
+msgid ""
+"Dear {{customer_full_name}}.\n"
+"\n"
+"This is a reminder that you have booked {{service_name}} on "
+"{{appointment_date}} at {{appointment_start_time}}.\n"
+"\n"
+"We look forward to seeing you!\n"
+"\n"
+"Kind regards.\n"
+"\n"
+"{{company_name}}\n"
+"{{company_phone}}\n"
+"{{company_website}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:267
+#: ../backend/inc/entities/notifications.php:337
+msgid "Reminder Time Before Appointment"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:277
+#: ../backend/inc/entities/notifications.php:347
+msgid "Thank you for registering!"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:278
+msgid ""
+"Hello {{customer_full_name}}.\n"
+"\n"
+"Thanks for registering at {{site_address}}\n"
+"\n"
+"You can now login to manage your account and appointments using the "
+"following credentials:\n"
+"user: {{new_username}}\n"
+"password: {{new_password}}\n"
+"\n"
+"Thanks."
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:288
+msgid ""
+"Hello.\n"
+"\n"
+"You have a new booking.\n"
+"\n"
+"Service: {{service_name}}\n"
+"Date: {{appointment_date}}\n"
+"Time: {{appointment_start_time}}\n"
+"\n"
+"Customer name: {{customer_full_name}}\n"
+"Customer email: {{customer_email}}\n"
+"Customer phone: {{customer_phone}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:296
+msgid ""
+"Hello.\n"
+"\n"
+"The following booking has been canceled.\n"
+"\n"
+"Service: {{service_name}}\n"
+"Date: {{appointment_date}}\n"
+"Time: {{appointment_start_time}}\n"
+"\n"
+"Customer name: {{customer_full_name}}\n"
+"Customer email: {{customer_email}}\n"
+"Customer phone: {{customer_phone}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:304
+msgid ""
+"Hello.\n"
+"\n"
+" You have a new booking.\n"
+"\n"
+"Service: {{service_name}}\n"
+"Date: {{appointment_date}}\n"
+"Time: {{appointment_start_time}}\n"
+"\n"
+"Customer name: {{customer_full_name}}\n"
+"Customer email: {{customer_email}}\n"
+"Customer phone: {{customer_phone}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:312
+msgid ""
+"Hello.\n"
+"\n"
+"The following booking has been rejected.\n"
+"\n"
+"Service: {{service_name}}\n"
+"Date: {{appointment_date}}\n"
+"Time: {{appointment_start_time}}\n"
+"\n"
+"Customer name: {{customer_full_name}}\n"
+"Customer email: {{customer_email}}\n"
+"Customer phone: {{customer_phone}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:320
+msgid ""
+"Hello.\n"
+"\n"
+"Were changed the details of your booking on {{service_name}} at "
+"{{location_name}}. The booking has been rescheduled to {{appointment_date}} "
+"at {{appointment_start_time}}.\n"
+"\n"
+"{{company_name}}\n"
+"{{company_phone}}\n"
+"{{company_website}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:328
+msgid ""
+"Reminder:  {{customer_full_name}} has booked an appointment.\n"
+"\n"
+"Service: {{service_name}}\n"
+"Date: {{appointment_date}}\n"
+"Time: {{appointment_start_time}}\n"
+"\n"
+"Customer name: {{customer_full_name}}\n"
+"Customer email: {{customer_email}}\n"
+"Customer phone: {{customer_phone}}"
+msgstr ""
+
+#: ../backend/inc/entities/notifications.php:348
+msgid ""
+"Hello {{employee_full_name}}.\n"
+"\n"
+"Thanks for registering at {{site_address}}\n"
+"\n"
+"You can now login to manage your account and appointments using the "
+"following credentials:\n"
+"user: {{new_username}}\n"
+"password: {{new_password}}\n"
+"\n"
+"Thanks."
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:56
+#: ../backend/inc/entities/payments.php:57
+#: ../backend/inc/entities/payments.php:751
+#: ../backend/inc/settings/settings-page.php:102
+#: ../backend/inc/settings/settings-page.php:748
+msgid "Payments"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:106
+msgid "Paid"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:107
+msgid "Total"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:178
+#: ../backend/inc/entities/payments.php:300
+#: ../backend/inc/entities/payments.php:425
+#: ../backend/inc/entities/payments.php:598
+msgid "Completed"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:604
+#: ../backend/inc/helpers/helper-appointments.php:1897
+#: ../backend/inc/helpers/helper-cabinet.php:717
+#: ../backend/inc/settings/settings-page.php:894
+msgid "Paypal"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:605
+#: ../backend/inc/helpers/helper-appointments.php:1898
+#: ../backend/inc/helpers/helper-cabinet.php:718
+#: ../backend/inc/settings/settings-page.php:978 ../frontend/frontend.php:103
+msgid "Stripe"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:607
+#: ../backend/inc/helpers/helper-appointments.php:449
+#: ../backend/inc/helpers/helper-appointments.php:454
+#: ../backend/inc/helpers/helper-appointments.php:1128
+#: ../backend/inc/helpers/helper-appointments.php:1256
+#: ../backend/inc/helpers/helper-appointments.php:1900
+#: ../backend/inc/helpers/helper-cabinet.php:720
+msgid "Local"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:617
+msgid "Payment Details"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:628
+#: ../backend/inc/helpers/helper-appointments.php:1945
+#: ../backend/inc/helpers/helper-cabinet.php:765
+msgid "Name:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:632
+#: ../backend/inc/helpers/helper-appointments.php:1949
+#: ../backend/inc/helpers/helper-cabinet.php:769
+msgid "Email:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:638
+#: ../backend/inc/helpers/helper-appointments.php:1954
+#: ../backend/inc/helpers/helper-cabinet.php:774
+msgid "Phone:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:647
+#: ../backend/inc/helpers/helper-appointments.php:1966
+#: ../backend/inc/helpers/helper-cabinet.php:786
+msgid "Appointment"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:650
+#: ../backend/inc/entities/payments.php:668
+#: ../backend/inc/helpers/helper-appointments.php:463
+#: ../backend/inc/helpers/helper-appointments.php:1121
+#: ../backend/inc/helpers/helper-appointments.php:1259
+#: ../backend/inc/helpers/helper-appointments.php:1805
+#: ../backend/inc/helpers/helper-cabinet.php:613
+#: ../frontend/shortcodes/shortcode-alpha.php:282
+msgid "Date:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:654
+#: ../backend/inc/helpers/helper-appointments.php:1821
+#: ../backend/inc/helpers/helper-cabinet.php:639
+msgid "Service:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:658
+#: ../backend/inc/helpers/helper-appointments.php:1817
+#: ../backend/inc/helpers/helper-cabinet.php:635
+msgid "Employee:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:672
+#: ../backend/inc/helpers/helper-appointments.php:469
+#: ../backend/inc/helpers/helper-appointments.php:1127
+#: ../backend/inc/helpers/helper-appointments.php:1265
+#: ../backend/inc/helpers/helper-appointments.php:1912
+#: ../backend/inc/helpers/helper-cabinet.php:732
+msgid "Payment Method:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:676
+#: ../backend/inc/helpers/helper-appointments.php:1813
+#: ../backend/inc/helpers/helper-appointments.php:1969
+#: ../backend/inc/helpers/helper-cabinet.php:630
+#: ../backend/inc/helpers/helper-cabinet.php:789
+msgid "Status:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:685
+#: ../backend/inc/helpers/helper-appointments.php:329
+#: ../backend/inc/helpers/helper-appointments.php:481
+#: ../backend/inc/helpers/helper-appointments.php:1072
+#: ../backend/inc/helpers/helper-appointments.php:1139
+#: ../backend/inc/helpers/helper-appointments.php:1277
+#: ../backend/inc/helpers/helper-appointments.php:1327
+#: ../backend/inc/helpers/helper-appointments.php:1916
+#: ../backend/inc/helpers/helper-cabinet.php:736
+msgid "Service Price:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:689
+#: ../backend/inc/helpers/helper-appointments.php:333
+#: ../backend/inc/helpers/helper-appointments.php:475
+#: ../backend/inc/helpers/helper-appointments.php:1080
+#: ../backend/inc/helpers/helper-appointments.php:1133
+#: ../backend/inc/helpers/helper-appointments.php:1271
+#: ../backend/inc/helpers/helper-appointments.php:1331
+#: ../backend/inc/helpers/helper-appointments.php:1920
+#: ../backend/inc/helpers/helper-appointments.php:1988
+#: ../backend/inc/helpers/helper-cabinet.php:740
+#: ../backend/inc/helpers/helper-cabinet.php:808
+msgid "Extras Price:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:693
+#: ../backend/inc/helpers/helper-appointments.php:1924
+#: ../backend/inc/helpers/helper-appointments.php:1992
+#: ../backend/inc/helpers/helper-cabinet.php:744
+#: ../backend/inc/helpers/helper-cabinet.php:812
+msgid "Paid:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:697
+#: ../backend/inc/helpers/helper-appointments.php:1928
+#: ../backend/inc/helpers/helper-appointments.php:1996
+#: ../backend/inc/helpers/helper-cabinet.php:748
+#: ../backend/inc/helpers/helper-cabinet.php:816
+msgid "Due:"
+msgstr ""
+
+#: ../backend/inc/entities/payments.php:701
+#: ../backend/inc/helpers/helper-appointments.php:337
+#: ../backend/inc/helpers/helper-appointments.php:1088
+#: ../backend/inc/helpers/helper-appointments.php:1335
+#: ../backend/inc/helpers/helper-appointments.php:2000
+#: ../backend/inc/helpers/helper-cabinet.php:820
+msgid "Total Price:"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:67
+msgid "Add New Service"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:86
+msgid "All Services"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:93
+msgid "Add New Category"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:106
+msgid "New Category"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:724
+msgid "Least Expensive"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:725
+msgid "Most Expensive"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:726
+msgid "Least Occupied"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:727
+msgid "Most Occupied"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:741
+#: ../backend/inc/helpers/helper.php:778 ../backend/inc/helpers/helper.php:926
+msgid "Disabled"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:742
+msgid "Per Day"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:743
+msgid "Per Week"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:744
+msgid "Per Month"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:745
+msgid "Per Year"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:797
+msgid "Edit Service"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:815
+#: ../backend/inc/helpers/helper-services.php:148
+msgid "Gallery"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:838
+#: ../backend/inc/helpers/helper-services.php:171
+msgid "Select Color"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:845
+#: ../backend/inc/helpers/helper-cabinet.php:80
+#: ../backend/inc/helpers/helper-employees.php:537
+#: ../backend/inc/helpers/helper-employees.php:670
+#: ../backend/inc/helpers/helper-services.php:178
+msgid "Visible to Public"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:853
+#: ../backend/inc/helpers/helper-services.php:186
+#: ../backend/inc/helpers/helper.php:1127
+msgid "Service Name"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:857
+#: ../backend/inc/helpers/helper-services.php:190
+msgid "Service Price"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:862
+#: ../backend/inc/helpers/helper-appointments.php:1586
+#: ../backend/inc/helpers/helper-services.php:195
+msgid "Category"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:863
+#: ../backend/inc/helpers/helper-appointments.php:1588
+#: ../backend/inc/helpers/helper-services.php:196
+msgid "Select from Categories"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:884
+#: ../backend/inc/entities/services.php:892
+#: ../backend/inc/helpers/helper-services.php:217
+#: ../backend/inc/helpers/helper-services.php:225
+msgid "Buffer Time Before"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:887
+#: ../backend/inc/helpers/helper-services.php:220
+msgid ""
+"Time before the start of the appointment with this service. When creating an "
+"appointment with this service, this time will be taken into account."
+msgstr ""
+
+#: ../backend/inc/entities/services.php:898
+#: ../backend/inc/entities/services.php:906
+#: ../backend/inc/helpers/helper-services.php:231
+#: ../backend/inc/helpers/helper-services.php:239
+msgid "Buffer Time After"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:901
+#: ../backend/inc/helpers/helper-services.php:234
+msgid ""
+"Time after the end of the appointment with this service. When creating an "
+"appointment with this service, this time will be taken into account."
+msgstr ""
+
+#: ../backend/inc/entities/services.php:914
+#: ../backend/inc/helpers/helper-services.php:247
+msgid "Min Capacity"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:917
+#: ../backend/inc/helpers/helper-services.php:250
+msgid ""
+"The minimum number of people who can come to an appointment with this "
+"service."
+msgstr ""
+
+#: ../backend/inc/entities/services.php:930
+#: ../backend/inc/helpers/helper-services.php:91
+#: ../backend/inc/helpers/helper-services.php:263
+#: ../backend/inc/helpers/helper-services.php:620
+msgid "Max Capacity"
+msgstr ""
+
+#: ../backend/inc/entities/services.php:933
+#: ../backend/inc/helpers/helper-services.php:266
+msgid ""
+"The maximum number of people who can come to an appointment with this "
+"service."
+msgstr ""
+
+#: ../backend/inc/entities/services.php:958
+#: ../backend/inc/helpers/helper-services.php:292
+msgid ""
+"Light Version doesn't support extras. Please, upgrade to Bookmify (PRO) to "
+"get all possibilites of Bookmify and technical support 24/7."
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:27
+#: ../backend/inc/helpers/helper-admin.php:45
+msgid "New add-on for Bookmify"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:33
+msgid "Released New Version (1.0.1)"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:39
+msgid "Fixed Some Issues"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:53
+msgid "Show All Notifications"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:79
+msgid "Shortcode"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:114
+msgid "Help Center"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:123
+msgid "Documentation"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:131
+msgid "FAQ"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:139
+msgid "Contact Us"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:147
+msgid "Feedback"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:179
+msgid "Online Bookings Management"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:183
+msgid "Hello"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:227
+msgid ""
+"You are about to change a service setting which is also configured "
+"separately for each employees employee. Do you want to update it in "
+"employees settings too?"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:230
+#: ../backend/inc/helpers/helper-admin.php:258
+msgid "Yes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-admin.php:231
+msgid "No, just change here"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:34
+msgid "New Appointment"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:195
+#: ../backend/inc/helpers/helper-appointments.php:491
+#: ../backend/inc/helpers/helper-appointments.php:1055
+#: ../backend/inc/helpers/helper-appointments.php:1147
+#: ../backend/inc/helpers/helper-appointments.php:1287
+#: ../backend/inc/helpers/helper-appointments.php:1399
+#: ../backend/inc/helpers/helper-appointments.php:1932
+#: ../backend/inc/helpers/helper-cabinet.php:752
+msgid "Subtotal:"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:300
+#: ../backend/inc/helpers/helper-appointments.php:503
+#: ../backend/inc/helpers/helper-appointments.php:1209
+#: ../backend/inc/helpers/helper-appointments.php:1299
+msgid "Select customer, employee and service"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1460
+#: ../backend/inc/helpers/helper-appointments.php:1485
+#: ../backend/inc/helpers/helper-appointments.php:1541
+msgid "Select from Existing Customers"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1553
+msgid "Notify the Customer(s)"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1553
+msgid ""
+"By ticking you indicate to send notifications to all customers about this "
+"appointment."
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1596
+msgid "Select from Services"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1615
+msgid "Select from Locations"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1647
+msgid "Time"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1649
+msgid "hh:ii"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1809
+#: ../backend/inc/helpers/helper-cabinet.php:619
+#: ../backend/inc/helpers/helper-cabinet.php:624
+msgid "Time:"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1825
+#: ../backend/inc/helpers/helper-cabinet.php:644
+msgid "Buffer Before/After:"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1829
+#: ../backend/inc/helpers/helper-cabinet.php:648
+msgid "Capacity Min/Max:"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1833
+#: ../backend/inc/helpers/helper-appointments.php:1973
+#: ../backend/inc/helpers/helper-cabinet.php:652
+#: ../backend/inc/helpers/helper-cabinet.php:793
+msgid "People Count:"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1834
+#: ../backend/inc/helpers/helper-appointments.php:1974
+#: ../backend/inc/helpers/helper-cabinet.php:653
+#: ../backend/inc/helpers/helper-cabinet.php:794
+msgid "People"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1838
+#: ../backend/inc/helpers/helper-cabinet.php:658
+msgid "Info:"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1908
+#: ../backend/inc/helpers/helper-cabinet.php:728
+msgid "Created Date:"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:1984
+#: ../backend/inc/helpers/helper-cabinet.php:804
+msgid "Services Price:"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-appointments.php:2022
+msgid "Date Filter"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-cabinet.php:311
+#: ../backend/inc/helpers/helper.php:37
+msgid "Reset"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customers.php:31
+msgid "New Customer"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customers.php:184
+#: ../backend/inc/helpers/helper-employees.php:1173
+msgid "Create New"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:22
+msgid "Do you like bookmify?"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:24
+msgid "Yes, of course"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:25
+msgid "Not much"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:42
+msgid "New Checkbox"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:43
+msgid "New Radio Buttons"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:44
+msgid "New Selectbox"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:45
+msgid "New Text"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:46
+msgid "New Textarea"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:47
+msgid "New Text Content"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-customfields.php:249
+#: ../backend/inc/helpers/helper-locations.php:139
+#: ../backend/inc/helpers/helper-services.php:493
+msgid "Select All"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:30
+msgid "New Employee"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:144
+#: ../backend/inc/settings/settings-page.php:328
+msgid "Monday"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:153
+#: ../backend/inc/helpers/helper-employees.php:190
+#: ../backend/inc/helpers/helper-employees.php:227
+#: ../backend/inc/helpers/helper-employees.php:264
+#: ../backend/inc/helpers/helper-employees.php:301
+#: ../backend/inc/helpers/helper-employees.php:338
+#: ../backend/inc/helpers/helper-employees.php:375
+#: ../backend/inc/settings/settings-page.php:337
+#: ../backend/inc/settings/settings-page.php:377
+#: ../backend/inc/settings/settings-page.php:417
+#: ../backend/inc/settings/settings-page.php:457
+#: ../backend/inc/settings/settings-page.php:497
+#: ../backend/inc/settings/settings-page.php:537
+#: ../backend/inc/settings/settings-page.php:577
+msgid "Breaks"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:160
+#: ../backend/inc/helpers/helper-employees.php:197
+#: ../backend/inc/helpers/helper-employees.php:234
+#: ../backend/inc/helpers/helper-employees.php:271
+#: ../backend/inc/helpers/helper-employees.php:308
+#: ../backend/inc/helpers/helper-employees.php:345
+#: ../backend/inc/helpers/helper-employees.php:382
+#: ../backend/inc/settings/settings-page.php:347
+#: ../backend/inc/settings/settings-page.php:387
+#: ../backend/inc/settings/settings-page.php:427
+#: ../backend/inc/settings/settings-page.php:467
+#: ../backend/inc/settings/settings-page.php:507
+#: ../backend/inc/settings/settings-page.php:547
+#: ../backend/inc/settings/settings-page.php:587
+msgid "Add New"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:165
+#: ../backend/inc/helpers/helper-employees.php:202
+#: ../backend/inc/helpers/helper-employees.php:239
+#: ../backend/inc/helpers/helper-employees.php:276
+#: ../backend/inc/helpers/helper-employees.php:313
+#: ../backend/inc/helpers/helper-employees.php:350
+#: ../backend/inc/helpers/helper-employees.php:387
+#: ../backend/inc/settings/settings-page.php:352
+#: ../backend/inc/settings/settings-page.php:392
+#: ../backend/inc/settings/settings-page.php:432
+#: ../backend/inc/settings/settings-page.php:472
+#: ../backend/inc/settings/settings-page.php:512
+#: ../backend/inc/settings/settings-page.php:552
+#: ../backend/inc/settings/settings-page.php:592
+msgid "Apply to all days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:181
+#: ../backend/inc/settings/settings-page.php:368
+msgid "Tuesday"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:218
+#: ../backend/inc/settings/settings-page.php:408
+msgid "Wednesday"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:255
+#: ../backend/inc/settings/settings-page.php:448
+msgid "Thursday"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:292
+#: ../backend/inc/settings/settings-page.php:488
+msgid "Friday"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:329
+#: ../backend/inc/settings/settings-page.php:528
+msgid "Saturday"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:366
+#: ../backend/inc/settings/settings-page.php:568
+msgid "Sunday"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:407
+#: ../backend/inc/settings/settings-page.php:620
+msgid "yy-mm-dd, yy-mm-dd ..."
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:425
+msgid "Add"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:433
+#: ../backend/inc/settings/settings-page.php:645
+msgid "Clear"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:455
+msgid "Private Days Off"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:456
+msgid "Global Days Off"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:480
+msgid "Once Only"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:508
+#: ../backend/inc/helpers/helper-employees.php:640
+msgid "Google Profile"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:509
+#: ../backend/inc/helpers/helper-employees.php:641
+msgid "Inactive"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:571
+#: ../backend/inc/helpers/helper-employees.php:702
+msgid "Select from Existing Locations"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:637
+msgid "Send mail to this email"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:638
+msgid "Active"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-employees.php:878
+#: ../backend/inc/helpers/helper-employees.php:998
+msgid "Capacity"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-locations.php:28
+msgid "New Location"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-notifications.php:94
+#: ../backend/inc/helpers/helper-notifications.php:251
+msgid "Scheduled Notification"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-notifications.php:118
+#: ../backend/inc/helpers/helper-notifications.php:275
+msgid "Subject"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-notifications.php:123
+#: ../backend/inc/helpers/helper-notifications.php:279
+msgid "Scheduled For"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-notifications.php:124
+#: ../backend/inc/helpers/helper-notifications.php:130
+#: ../backend/inc/helpers/helper-notifications.php:280
+#: ../backend/inc/helpers/helper-notifications.php:286
+msgid "Select Time"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-notifications.php:129
+#: ../backend/inc/helpers/helper-notifications.php:285
+msgid "Before..."
+msgstr ""
+
+#: ../backend/inc/helpers/helper-notifications.php:139
+#: ../backend/inc/helpers/helper-notifications.php:295
+#: ../frontend/shortcodes/shortcode-alpha.php:134
+msgid "Message"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-notifications.php:184
+msgid "Recipient Email"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-notifications.php:186
+msgid "Send Test Email"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-services.php:75
+#: ../backend/inc/helpers/helper-services.php:604
+msgid "Extra Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-services.php:94
+#: ../backend/inc/helpers/helper-services.php:623
+msgid "The maximum amount of this Extra that a customer can use."
+msgstr ""
+
+#: ../backend/inc/helpers/helper-services.php:130
+msgid "New Service"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-services.php:420
+msgid "Add Image"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:20
+#: ../backend/inc/settings/settings-page.php:84
+msgid "General"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:33
+msgid "Day Format"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:51
+msgid "Time Format"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:69
+msgid "Minimum time to Booking"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:89
+msgid "Minimum time to Cancel"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:106
+msgid "Time Interval"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:126
+msgid "Service Duration as Time Slot"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:158
+msgid "Front-end Appointment Status"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:176
+msgid "Appointments Per Page"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:182
+#: ../backend/inc/settings/settings-page.php:710
+#: ../backend/inc/settings/settings-page.php:761
+#: ../backend/inc/settings/settings-page.php:1084
+msgid "Show All"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:195
+msgid "Appointments Filter Date Range"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:227
+msgid "Calendar Hot Keys"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:238
+msgid "Go To Today"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:248
+msgid "Month View"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:258
+msgid "Week View"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:268
+msgid "Day View"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:278
+msgid "List View"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:288
+msgid "Go To Previous"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:298
+msgid "Go To Next"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:308
+msgid "Reset All Filters"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:352
+#: ../backend/inc/settings/settings-page.php:90
+msgid "Company Info"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:398
+msgid "Website"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:454
+msgid "Mail Service"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:470
+msgid "Sender Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:476
+msgid "Sender Email"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:490
+msgid "SMTP Host"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:496
+msgid "SMTP Port"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:502
+msgid "SMTP Username"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:508
+msgid "SMTP Password"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:514
+msgid "SMTP Secure"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:563
+msgid "Front-end Customizations"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:571
+msgid "Main Color #1"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:577
+msgid "Main Color #2"
+msgstr ""
+
+#: ../backend/inc/helpers/helper-settings.php:583
+msgid "Main Color #3"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:51
+msgid "Delete"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:508
+#, php-format
+msgid "%dyear"
+msgid_plural "%dyears"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/inc/helpers/helper.php:509
+#, php-format
+msgid "%dmonth"
+msgid_plural "%dmonths"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/inc/helpers/helper.php:510
+#, php-format
+msgid "%dweek"
+msgid_plural "%dweeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/inc/helpers/helper.php:511
+#, php-format
+msgid "%dday"
+msgid_plural "%ddays"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/inc/helpers/helper.php:512
+#, php-format
+msgid "%dh"
+msgid_plural "%dh"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/inc/helpers/helper.php:513 ../backend/inc/helpers/helper.php:514
+#, php-format
+msgid "%dmin"
+msgid_plural "%dmin"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/inc/helpers/helper.php:549
+msgid "Free"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:603
+msgid "UAE dirham"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:604
+msgid "Afghan afghani"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:605
+msgid "Albanian lek"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:606
+msgid "Armenian dram"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:607
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:608
+msgid "Angolan kwanza"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:609
+msgid "Argentine peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:610
+msgid "Australian dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:611
+msgid "Aruban florin"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:612
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:613
+msgid "B&H convertible mark"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:614
+msgid "Barbadian dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:615
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:616
+msgid "Bulgarian lev"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:617
+msgid "Bahraini dinar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:618
+msgid "Burundian franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:619
+msgid "Bermudian dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:620
+msgid "Brunei dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:621
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:622
+msgid "Brazilian real"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:623
+msgid "Bahamian dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:624
+msgid "Bitcoin"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:625
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:626
+msgid "Botswana pula"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:627
+msgid "Belarusian ruble (old)"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:628
+msgid "Belarusian ruble"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:629
+msgid "Belize dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:630
+msgid "Canadian dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:631
+msgid "Congolese franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:632
+msgid "Swiss franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:633
+msgid "Chilean peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:634 ../backend/inc/helpers/helper.php:722
+msgid "Chinese yuan"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:635
+msgid "Colombian peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:636
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:637
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:638
+msgid "Cuban peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:639
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:640
+msgid "Czech koruna"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:641
+msgid "Djiboutian franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:642
+msgid "Danish krone"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:643
+msgid "Dominican peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:644
+msgid "Algerian dinar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:645
+msgid "Egyptian pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:646
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:647
+msgid "Ethiopian birr"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:648
+msgid "Euro"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:649
+msgid "Fijian dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:650
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:651
+msgid "Pound sterling"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:652
+msgid "Georgian lari"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:653
+msgid "Guernsey pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:654
+msgid "Ghana cedi"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:655
+msgid "Gibraltar pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:656
+msgid "Gambian dalasi"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:657
+msgid "Guinean franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:658
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:659
+msgid "Guyanese dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:660
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:661
+msgid "Honduran lempira"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:662
+msgid "Croatian kuna"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:663
+msgid "Haitian gourde"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:664
+msgid "Hungarian forint"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:665
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:666
+msgid "Israeli new shekel"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:667
+msgid "Manx pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:668
+msgid "Indian rupee"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:669
+msgid "Iraqi dinar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:670
+msgid "Iranian rial"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:671
+msgid "Iranian toman"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:672
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:673
+msgid "Jersey pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:674
+msgid "Jamaican dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:675
+msgid "Jordanian dinar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:676
+msgid "Japanese yen"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:677
+msgid "Kenyan shilling"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:678
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:679
+msgid "Cambodian riel"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:680
+msgid "Comorian franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:681
+msgid "North Korean won"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:682
+msgid "South Korean won"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:683
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:684
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:685
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:686
+msgid "Lao kip"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:687
+msgid "Lebanese pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:688
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:689
+msgid "Liberian dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:690
+msgid "Lesotho loti"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:691
+msgid "Libyan dinar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:692
+msgid "Moroccan dirham"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:693
+msgid "Moldovan leu"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:694
+msgid "Malagasy ariary"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:695
+msgid "Macedonian denar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:696
+msgid "Burmese kyat"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:697
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:698
+msgid "Macanese pataca"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:699
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:700
+msgid "Mauritian rupee"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:701
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:702
+msgid "Malawian kwacha"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:703
+msgid "Mexican peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:704
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:705
+msgid "Mozambican metical"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:706
+msgid "Namibian dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:707
+msgid "Nigerian naira"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:708
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:709
+msgid "Norwegian krone"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:710
+msgid "Nepalese rupee"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:711
+msgid "New Zealand dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:712
+msgid "Omani rial"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:713
+msgid "Panamanian balboa"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:714
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:715
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:716
+msgid "Philippine peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:717
+msgid "Pakistani rupee"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:718
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:719
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:720
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:721
+msgid "Qatari riyal"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:723
+msgid "Romanian leu"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:724
+msgid "Serbian dinar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:725
+msgid "Russian ruble"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:726
+msgid "Rwandan franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:727
+msgid "Saudi riyal"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:728
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:729
+msgid "Seychellois rupee"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:730
+msgid "Sudanese pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:731
+msgid "Swedish krona"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:732
+msgid "Singapore dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:733
+msgid "Saint Helena pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:734
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:735
+msgid "Somali shilling"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:736
+msgid "Surinamese dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:737
+msgid "South Sudanese pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:738
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:739
+msgid "Syrian pound"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:740
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:741
+msgid "Thai baht"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:742
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:743
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:744
+msgid "Tunisian dinar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:745
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:746
+msgid "Turkish lira"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:747
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:748
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:749
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:750
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:751
+msgid "Ugandan shilling"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:752
+msgid "United States (US) dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:753
+msgid "Uruguayan peso"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:754
+msgid "Uzbekistani som"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:755
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:756
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:757
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:758
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:759
+msgid "Central African CFA franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:760
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:761
+msgid "West African CFA franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:762
+msgid "CFP franc"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:763
+msgid "Yemeni rial"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:764
+msgid "South African rand"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:765
+msgid "Zambian kwacha"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:779 ../backend/inc/helpers/helper.php:821
+msgid "15 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:780 ../backend/inc/helpers/helper.php:823
+msgid "30 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:781 ../backend/inc/helpers/helper.php:824
+msgid "45 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:782 ../backend/inc/helpers/helper.php:825
+msgid "1 Hour"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:783 ../backend/inc/helpers/helper.php:827
+msgid "2 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:784 ../backend/inc/helpers/helper.php:828
+msgid "3 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:785 ../backend/inc/helpers/helper.php:829
+msgid "4 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:786 ../backend/inc/helpers/helper.php:830
+msgid "5 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:787 ../backend/inc/helpers/helper.php:831
+msgid "6 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:788
+msgid "7 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:789 ../backend/inc/helpers/helper.php:832
+msgid "8 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:790
+msgid "9 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:791
+msgid "10 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:792
+msgid "11 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:793 ../backend/inc/helpers/helper.php:833
+msgid "12 Hours"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:794
+msgid "1 Day"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:795
+msgid "2 Days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:796
+msgid "3 Days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:797
+msgid "4 Days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:798
+msgid "5 Days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:799
+msgid "6 Days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:800
+msgid "1 Week"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:801
+msgid "2 Weeks"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:802
+msgid "3 Weeks"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:803
+msgid "4 Weeks"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:815
+msgid "1 Minute"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:816
+msgid "2 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:817
+msgid "3 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:818
+msgid "4 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:819
+msgid "5 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:820
+msgid "10 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:822
+msgid "20 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:826
+msgid "1 Hour 30 Minutes"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:846
+msgid "1h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:847
+msgid "2h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:848
+msgid "3h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:849
+msgid "4h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:850
+msgid "5h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:851
+msgid "6h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:852
+msgid "7h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:853
+msgid "8h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:854
+msgid "9h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:855
+msgid "10h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:856
+msgid "11h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:857
+msgid "12h"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:858
+msgid "1day"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:859
+msgid "2days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:860
+msgid "3days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:861
+msgid "4days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:862
+msgid "5days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:863
+msgid "6days"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:864
+msgid "1week"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:865
+msgid "2weeks"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:866
+msgid "3weks"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:867
+msgid "4weeks"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:911
+msgid "PHP Mail"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:912
+msgid "WP Mail"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:927
+msgid "SSL"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:928
+msgid "TLS"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1097
+msgid "Appointment Date"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1098
+msgid "Appointment Start Time"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1105
+msgid "Customer email"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1106
+msgid "Customer First Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1107
+msgid "Customer Last Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1108
+msgid "Customer Full Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1109
+msgid "Customer Phone"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1111
+msgid "Custom Fields"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1112
+msgid "Company Address"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1114
+msgid "Company Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1115
+msgid "Company Phone"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1116
+msgid "Company Website"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1117
+msgid "Employee email"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1118
+msgid "Employee First Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1119
+msgid "Employee Last Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1120
+msgid "Employee Full Name"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1121
+msgid "Employee Phone"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1126
+msgid "Service Duration"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1128
+#: ../frontend/shortcodes/shortcode-alpha.php:330
+msgid "Total Price"
+msgstr ""
+
+#: ../backend/inc/helpers/helper.php:1139
+msgid "No Results"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:96
+#: ../backend/inc/settings/settings-page.php:276
+msgid "Working Schedule"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:108
+#: ../backend/inc/settings/settings-page.php:167
+msgid "Google Calendar"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:126
+msgid "Notification"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:140
+msgid "Customization"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:188
+msgid "Client ID"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:195
+msgid "Client Secret"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:203
+msgid "Redirect URL"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:210
+msgid "Maximum Number Of Events Returned"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:218
+msgid "Add Pending Appointments"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:230
+msgid "Add Event's Attendees"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:242
+msgid "Send Event Invitation Email"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:704
+msgid "Customers Per Page"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:756
+msgid "Payments Per Page"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:774
+msgid "Payment Filter Date Range"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:797
+msgid "Currency Format"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:815
+msgid "Currency Position"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:821
+msgid "Left"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:822
+msgid "Left-Space"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:823
+msgid "Right"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:824
+msgid "Right-Space"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:837
+msgid "Price Format"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:843
+msgid "Comma-Dot"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:844
+msgid "Dot-Comma"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:845
+msgid "Space-Dot"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:846
+msgid "Space-Comma"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:859
+msgid "Price Decimal"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:903
+msgid "Paypal Sandbox Mode"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:914
+msgid "Sandbox Paypal Client ID"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:923
+msgid "Sandbox Paypal Client Secret"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:932
+msgid "Live Paypal Client ID"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:941
+msgid "Live Paypal Client Secret"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:987
+msgid "Stripe Test Mode"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:998
+msgid "Test Stripe Publishable Key"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:1007
+msgid "Test Stripe Secret Key"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:1016
+msgid "Live Stripe Publishable Key"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:1025
+msgid "Live Stripe Secret Key"
+msgstr ""
+
+#: ../backend/inc/settings/settings-page.php:1079
+msgid "Services Per Page"
+msgstr ""
+
+#: ../backend/inc/settings/settings.php:22
+#: ../backend/inc/settings/settings.php:23
+#: ../backend/inc/settings/settings.php:40
+msgid "Settings"
+msgstr ""
+
+#: ../backend/inc/settings/settings.php:68
+msgid "Core Settings"
+msgstr ""
+
+#: ../backend/inc/userroles.php:122
+msgid "Bookmify Manager"
+msgstr ""
+
+#: ../frontend/frontend.php:94
+msgid "Please fill out fields:"
+msgstr ""
+
+#: ../frontend/frontend.php:97
+msgid "Invalid Email & Phone"
+msgstr ""
+
+#: ../frontend/frontend.php:98
+msgid "None"
+msgstr ""
+
+#: ../frontend/frontend.php:101 ../frontend/helpers/helper-frontend.php:175
+#: ../frontend/shortcodes/shortcode-alpha.php:209
+#: ../frontend/shortcodes/shortcode-alpha.php:419
+#: ../frontend/shortcodes/shortcode-alpha.php:489
+msgid "Next"
+msgstr ""
+
+#: ../frontend/frontend.php:102
+msgid "PayPal"
+msgstr ""
+
+#: ../frontend/frontend.php:104 ../frontend/shortcodes/shortcode-alpha.php:323
+msgid "On-site"
+msgstr ""
+
+#: ../frontend/helpers/helper-frontend.php:50
+msgid "Details:"
+msgstr ""
+
+#: ../frontend/helpers/helper-frontend.php:153
+msgid "Select an option"
+msgstr ""
+
+#: ../frontend/helpers/helper-service.php:67
+msgid "Book Now"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:74
+msgid "Thank you!"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:75
+msgid ""
+"Your appointment is succesfully received. Please meet us at your selected "
+"date and time."
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:78
+msgid "For any kind of inquiry, please call us at 543-323-3456"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:83
+msgid "Go to services"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:105
+msgid "Please just fill out the form."
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:140
+msgid "Done"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:156
+msgid "People coming together:"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:195
+msgid "Count"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:225
+msgid "Choose a Service"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:226
+msgid "Back to Services"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:250
+msgid "you have chosen"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:266
+msgid "Specialist:"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:298
+msgid "Customer:"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:317
+msgid "Payment Method"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:338
+msgid "Approve Booking"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:443
+msgid "Extras:"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:863
+msgid "Busy Day. Please, select another day."
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:871
+msgid "That day's limit is reached."
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:874
+msgid "Time Slots"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:937
+msgid "This email already exists with different first name!"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:938
+msgid "This email already exists with different last name!"
+msgstr ""
+
+#: ../frontend/shortcodes/shortcode-alpha.php:939
+msgid "This email already exists with different name!"
+msgstr ""
+
+#: ../inc/functions.php:17
+msgid "Go Pro"
+msgstr ""
+
+#: ../inc/plugin.php:76 ../inc/plugin.php:89
+msgid "Cheatin&#8217; huh?"
+msgstr ""
